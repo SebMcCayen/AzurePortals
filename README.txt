@@ -1,5 +1,10 @@
 *************
+
 Azure Login Portals
+
+Maintained by Sebastian Stegrin
+- https://www.linkedin.com/in/sebastianstegrin/
+
 *************
 
 MIT License
